@@ -13,3 +13,4 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&=white ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927-badge&logo=microsoftsqlserver&logoColor=white ![SQLite](https://s.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
